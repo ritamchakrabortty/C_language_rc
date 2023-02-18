@@ -1,4 +1,4 @@
-/*#include<stdio.h>
+#include<stdio.h>
 #include<stdlib.h>
 void merge(int *L, int *R, int nL, int nR,int *A)
 {
@@ -81,8 +81,8 @@ int main()
         }
     }
     return 0;
-}*/
-
+}
+/*
 #include<stdio.h>
 
 int main()
@@ -99,4 +99,4 @@ int main()
     
     }
     return 0;
-}
+}*/
